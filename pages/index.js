@@ -1,8 +1,8 @@
-import Head from "next/head";
-import Header from "@components/Header";
-import Footer from "@components/Footer";
-import FeedbackForm from "@components/FeedbackForm";
-import JokeBlock from "@components/JokeBlock";
+import Head from 'next/head';
+import Header from '@components/Header';
+import Footer from '@components/Footer';
+import FeedbackForm from '@components/FeedbackForm';
+import JokeBlock from '@components/JokeBlock';
 
 export default function Home() {
   return (
@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Next.js Toolbox" />
+        <Header title="Next.js Toolbox Love this stuff" />
         <hr />
         <p className="description">
           Here's an example of a Netlify Form! When you fill this out, the
