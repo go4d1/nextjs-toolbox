@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Next.js Toolbox Love this stuff" />
+        <Header title="Next.js Toolbox Life is not going well" />
         <hr />
         <p className="description">
           Here's an example of a Netlify Form! When you fill this out, the
