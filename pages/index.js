@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Next.js Toolbox Life is not going well" />
+        <Header title="Next.js Toolbox is 80 years old to old to be writing code?" />
         <hr />
         <p className="description">
           Here's an example of a Netlify Form! When you fill this out, the
